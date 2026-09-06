@@ -18,5 +18,4 @@
 
 <p align="left">
   <img src="https://github-stats-extended.vercel.app/api?username=Liset999&show_icons=true&theme=github_dark" alt="Lanbo's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Liset999&theme=github_dark" alt="GitHub Streak" />
 </p>
