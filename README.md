@@ -10,8 +10,6 @@
 
 **让 Windows 桌面更顺手。** 基于 Windhawk 的 Windows 11 桌面增强套件，提供玻璃外观、任务栏歌词、桌面小组件和 AI 助手状态显示。
 
-[![ZenDesktop：玻璃开始菜单与任务栏歌词](assets/zendesktop.jpg)](https://github.com/Liset999/ZenDesktop)
-
 [项目介绍](https://github.com/Liset999/ZenDesktop) · [下载使用](https://github.com/Liset999/ZenDesktop/releases) · [问题反馈](https://github.com/Liset999/ZenDesktop/issues)
 
 [![GitHub Stars](https://img.shields.io/github/stars/Liset999/ZenDesktop?style=flat&label=Stars)](https://github.com/Liset999/ZenDesktop/stargazers) [![Latest Release](https://img.shields.io/github/v/release/Liset999/ZenDesktop?style=flat&label=Release)](https://github.com/Liset999/ZenDesktop/releases)
